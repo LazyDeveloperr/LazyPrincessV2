@@ -25,14 +25,14 @@
 - [x] File Store
 ## • What's New ?
 
-- [y] URL Shortener Added
-- [z] Self Delete Added (Auto delete)
-- [z] Filter On Off Option Added
-- [z] Custom Welcome Message
-- [z] URL Shortener Added
-- [z] Custom Download Name And URL
-- [z] Custom Texts (About, Help, Stats,More..)
-- [z] Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
+- [x] URL Shortener Added
+- [x] Self Delete Added (Auto delete)
+- [x] Filter On Off Option Added
+- [x] Custom Welcome Message
+- [x] URL Shortener Added
+- [x] Custom Download Name And URL
+- [x] Custom Texts (About, Help, Stats,More..)
+- [x] Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
 
 ## Variables
 
