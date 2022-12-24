@@ -25,7 +25,7 @@
 - [x] File Store
 ## • What's New ?
 
-- [z] URL Shortener Added
+- [y] URL Shortener Added
 - [z] Self Delete Added (Auto delete)
 - [z] Filter On Off Option Added
 - [z] Custom Welcome Message
