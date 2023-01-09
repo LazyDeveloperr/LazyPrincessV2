@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/real_MoviesAdda1"),
-            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/LazyDeveloper')
+            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/Creation_Satisfy"),
+            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/botupdateofficiel')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/real_MoviesAdda1"),
-            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/LazyDeveloper')
+            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/Creation_Satisfy"),
+            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/botupdateofficiel')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
@@ -247,7 +247,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://youtube.com/@LazyDeveloperr')] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://youtube.com/@creationofsatisfy7750')] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
